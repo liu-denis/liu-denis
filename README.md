@@ -8,7 +8,7 @@ I’m a backend-focused developer who enjoys solving problems, learning quickly,
 - 🖥️ See my portfolio at [zipeng.vercel.app](http://zipeng.vercel.app/)
 - ✉️ You can contact me at [zipeng.liu.mail@gmail.com](mailto:zipeng.liu.mail@gmail.com)
 - 👥 I'm looking to collaborate on exciting ideas, impactful projects, and new challenges
-- 💬 Ask me about When I’m not building, you’ll probably find me playing table tennis, travelling, or cooking.
+- ⭐ When I’m not building, you’ll probably find me playing table tennis, travelling, or cooking.
 
 ### Skills
 
